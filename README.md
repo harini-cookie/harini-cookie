@@ -13,7 +13,7 @@ _Last Updated on August 5, 2020_
 2. Web Development with React Native and/or Flutter
 
 📫 How to reach me: ...
-You can easily reach me by my [email](hka747910@gmail.com) or [whatsapp](438-883-8172).
+You can easily reach me by my email(hka747910@gmail.com) or whatsapp(438-883-8172).
 
 ⚡ Fun fact: ...
 * I have developed my interest for programming by participating in the STEAM club during my freshman and sophmore years of high school.
