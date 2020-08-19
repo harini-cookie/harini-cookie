@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Harini Karthik and I am an incoming junior at Garth Webb Secondary School. I am a software developer who is passionate about using technology for social good and productivity and an avid participant in research. Last year, I have conducted a research project that I had showcased on the Youth Science Canada Online STEM Fair. I have worked with experts in the Department of Chemical Engineering at McGill University and enriched my STEM knowledge by simulating my experiment using Computational Fluid Dynamics. 
+My name is Harini Karthik and I am an incoming junior. I am a software developer who is passionate about using technology for social good and productivity and an avid participant in research. Last year, I have conducted a research project that I had showcased on the Youth Science Canada Online STEM Fair. I have worked with experts in the Department of Chemical Engineering at McGill University and enriched my STEM knowledge by simulating my experiment using Computational Fluid Dynamics. 
 
 🔭 I’m currently working on ...
 1. Participated in ByteHacks 2020
